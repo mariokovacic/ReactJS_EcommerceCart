@@ -11,4 +11,7 @@ In this Little Project/practice I practiced:
 
 It's followed up by some basic CSS style.
 
+
+(And if you want to go into the app, go through "ecommercecart" folder.
+
 Stay Amazing.
