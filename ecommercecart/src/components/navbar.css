@@ -1,0 +1,68 @@
+.navBar {
+
+    width: 100%;
+    height: 90px;
+
+    background-color: black;
+    color: white;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+
+#Home {
+
+    width: 120px;
+    height: 30px;
+    margin: 3px;
+    color: white;
+    text-decoration: none;
+    /* ----------------- */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+#Home:hover {
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+
+}
+
+#Cart {
+
+    width: 120px;
+    height: 30px;
+    margin: 3px;
+    color: white;
+    text-decoration: none;
+    /* ----------------- */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#Cart:hover {
+
+
+    background-color: white;
+    color: black;
+    transition: 0.3s;
+
+
+}
+
+Link {
+
+    color: inherit;
+    text-decoration: none;
+
+
+}

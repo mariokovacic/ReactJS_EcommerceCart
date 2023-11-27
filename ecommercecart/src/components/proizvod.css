@@ -1,0 +1,47 @@
+.rasporedElemenata {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.proizvod {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    width: 300px;
+    height: 200px;
+
+    margin: 27px;
+
+    border: 1px solid black;
+    border-radius: 9px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.539);
+
+}
+
+img {
+
+    width: 100px;
+    height: 100px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.539);
+
+}
+
+.addToCart {
+
+
+    width: 120px;
+    height: 30px;
+    border: 0.3 solid black;
+    background-color: transparent;
+    color: black;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.539);
+
+
+}

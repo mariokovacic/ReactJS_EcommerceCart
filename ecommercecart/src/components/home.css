@@ -1,0 +1,55 @@
+.home {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+
+.rasporedApp {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.rasporedProizvodHome {
+
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+
+.addToCart {
+
+
+    width: 120px;
+    height: 30px;
+    border: 0.3 solid black;
+    border-radius: 9px;
+    background-color: transparent;
+    color: black;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.539);
+
+}
+
+.addToCart:hover {
+
+
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.539);
+
+}
